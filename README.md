@@ -19,6 +19,4 @@ Mizzty Here .....
 
 
 ------------------------------------------
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mizzty&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mizzty)](https://git.io/streak-stats)
